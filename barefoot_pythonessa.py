@@ -9,8 +9,15 @@ recipes={'entree':
 'gnocchi':['https://food52.com/recipes/70772-instant-potato-gnocchi','No additional notes'],
 'white-bean gnocchi' : ['http://sweetpeasandsaffron.com/2015/10/pan-fried-gnocchi-with-sundried-tomatoes-and-white-beans.html','No additional notes'],
 'mac & cheese':['http://carlsbadcravings.com/million-dollar-macaroni-cheese-casserole-recipe/','No additional notes'],
+'black bean/sweet potato soup':['https://food52.com/recipes/20498-smoky-black-bean-and-sweet-potato-chili','Two cans of beans instead of one!'],
+'harvest hash':['https://www.paleorunningmomma.com/sweet-potato-hash-paleo-vegan-whole30/','can add roasted butternut squash'],
+'goat cheese quiche':['https://www.closetcooking.com/roasted-cauliflower-mushroom-and-goat/','add carmelized diced red onions and a strips of spinach']
 },
-'dessert':{'creme brulee' : ['https://foodal.com/recipes/desserts/how-to-make-a-simple-creme-brulee/','No additional notes']},
+'dessert':
+{
+'creme brulee' : ['https://foodal.com/recipes/desserts/how-to-make-a-simple-creme-brulee/','No additional notes'],
+'tumeric sugar cookies': ['https://food52.com/recipes/77819-turmeric-sugar-cookies','No additional notes']
+},
 'breakfast':{'crepes':['https://www.sweetashoney.co/french-crepes-recipe-easy/','No additional notes']},
 }
 ###############################################################################
